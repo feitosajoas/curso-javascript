@@ -1,3 +1,4 @@
+//Criar console que retorne valores de variáveis ou métodos 
 console.log(Math.ceil(6.1))
 
 const obj1 = {}
